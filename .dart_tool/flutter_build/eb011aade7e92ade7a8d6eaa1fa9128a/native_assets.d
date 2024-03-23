@@ -1,0 +1,1 @@
+ /Users/abijacob/Downloads/Flutter\ Applications/simpleMusicPlayer/music_player/.dart_tool/flutter_build/eb011aade7e92ade7a8d6eaa1fa9128a/native_assets.yaml: 

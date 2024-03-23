@@ -1,0 +1,4 @@
+#Sat Mar 23 14:52:41 PDT 2024
+base.0=/Users/abijacob/Downloads/Flutter Applications/simpleMusicPlayer/simple_music_player/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
